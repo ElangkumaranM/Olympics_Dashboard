@@ -11,7 +11,7 @@ This repository contains a comprehensive Power BI dashboard visualizing data for
 
 ## Screenshots
 
-![Historical Medals](images/historical_medals.png)
+![Historical Medals]([images/historical_medals.png](https://imgs.search.brave.com/0leCGDyiMYC_ZiR24nNHmuur3KgECgzB-lL7Lg-QSxw/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/Z29vZG1vcm5pbmdx/dW90ZS5jb20vd3At/Y29udGVudC91cGxv/YWRzLzIwMjIvMDUv/ZXZlcnktbW9ybmlu/Zy1JLXdha2UtdXAt/a25vd2luZy15b3Ut/YXJlLW1pbmUtbW9y/bmluZy1sb3ZlLXF1/b3RlLndlYnA))
 *Historical medal counts by country*
 
 ![Country Overview](images/country_overview.png)
