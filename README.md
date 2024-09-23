@@ -19,7 +19,7 @@ This repository contains a comprehensive Power BI dashboard visualizing data for
 1. Ensure you have [Power BI Desktop](https://powerbi.microsoft.com/desktop/) installed on your machine.
 2. Clone this repository:
    ```
-   git clone https://github.com/yourusername/paris-olympics-2024-dashboard.git
+   git clone https://github.com/ElangkumaranM/Olympics_Dashboard.git
    ```
 3. Open the `.pbix` file in Power BI Desktop.
 
@@ -45,4 +45,3 @@ The dashboard utilizes historical Olympic data as well as projected information 
 
 - [Power BI](https://powerbi.microsoft.com/)
 - [Olympic Data Feed](https://www.kaggle.com/)
-- [Sports Reference](https://www.sports-reference.com/olympics/)
