@@ -50,29 +50,8 @@ The dashboard utilizes historical Olympic data as well as projected information 
 
 *Note: Some data points are projections and may change as the 2024 Olympics approach.*
 
-## Contributing
-
-Contributions to improve or expand the dashboard are welcome. Please follow these steps:
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature/AmazingFeature`)
-3. Make your changes
-4. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-5. Push to the branch (`git push origin feature/AmazingFeature`)
-6. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
-
-Project Link: [https://github.com/yourusername/paris-olympics-2024-dashboard](https://github.com/yourusername/paris-olympics-2024-dashboard)
-
 ## Acknowledgements
 
 - [Power BI](https://powerbi.microsoft.com/)
-- [Olympic Data Feed](https://www.olympicdatafeed.com/)
+- [Olympic Data Feed](https://www.kaggle.com/)
 - [Sports Reference](https://www.sports-reference.com/olympics/)
