@@ -9,19 +9,10 @@ This repository contains a comprehensive Power BI dashboard visualizing data for
 - Overall Olympics highlights and key metrics
 - Interactive visualizations for data exploration
 
-## Screenshots
+## Preview
 
-![Home](Home.png)
-*Historical medal counts by country*
-
-![Country Overview](images/country_overview.png)
-*Individual country performance and geographic visualization*
-
-![Athlete Stats](images/athlete_stats.png)
-*Athlete demographic breakdowns*
-
-![Olympics Highlights](images/highlights.png)
-*Key metrics and highlights*
+![Olympics Highlights](Preview.png)
+*Overview of this dashboard*
 
 ## Installation
 
